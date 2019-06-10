@@ -1,4 +1,5 @@
-# Coursera: Algorithmic Toolbox
+# Coursera: Data Structures and Algorithms Specialization 
+##(Offered By UNIVERSITY OF CALIFORNIA SAN DIEGO NATIONAL RESEARCH UNIVERSITY HIGHER SCHOOL OF ECONOMICS)
 
 This repository contains all solutions for the the Data Structures and Algorithms Specialization [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) offered on Coursera. The assignment solutions are in CPP.
 
